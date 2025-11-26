@@ -12,12 +12,12 @@
 </a>
 </p>
 
-*Web Developer & Data Science Learner 🚀 Developing modern web applications and gaining skills in data analysis and machine learning 📊*
+*Web Developer & Full Stack Python Learner 🚀 Developing modern web applications and gaining skills in web-technologies and full-stack python 📊*
 
 ---
 
 ### 👨‍💻 About Me
-- 💻 Passionate about *web development & modern technologies*  
+- 💻 Passionate about *web development & full-stack python*  
 - ⚡ Love building clean, interactive, and user-friendly applications  
 - 📚 Constantly learning and exploring new tools & frameworks  
 - ✨ Believe in *code + creativity = impactful solutions*

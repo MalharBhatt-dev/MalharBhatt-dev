@@ -5,14 +5,14 @@
 
 <p align="center">
  <a href="https://github.com/MalharBhatt-dev">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Web+Developer+%F0%9F%9A%80;Crafting+modern%2C+scalable%2C+responsive+web+apps+%F0%9F%8C%90;Python+Development+Enthusiast+%F0%9F%A7%AA;Turning+Program+into+Applications+and+WebApps+%F0%9F%93%88;Full+Stack+Python+Developer+%F0%9F%94%8D;Transforming+complex+data+into+clear+decisions+%F0%9F%93%8A" 
+ <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Web+Developer+%F0%9F%9A%80;%20Crafting+modern%2C+scalable%2C+and+user-focused+web+experiences+%F0%9F%8C%90;Python+Development+Enthusiast+%F0%9F%92%BB;Turning+ideas+into+powerful+Python+applications+%F0%9F%90%8D;Full+Stack+Python+Developer+%E2%9A%99%EF%B8%8F;Transforming+concepts+into+clean%2C+effective+solutions+%F0%9F%8E%AF" 
     alt="Typing SVG" 
   />
 </a>
 </p>
 
-*Web Developer & Python Learner 🚀 Developing modern web applications and gaining skills in web-technologies and full-stack python 📊*
+*Web Developer & Python Learner 🚀 Developing modern web applications and gaining skills in web-technologies and full-stack python 💻*
 
 ---
 

@@ -12,7 +12,7 @@
 </a>
 </p>
 
-*Web Developer & Full Stack Python Learner 🚀 Developing modern web applications and gaining skills in web-technologies and full-stack python 📊*
+*Web Developer & Python Learner 🚀 Developing modern web applications and gaining skills in web-technologies and full-stack python 📊*
 
 ---
 

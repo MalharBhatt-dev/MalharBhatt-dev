@@ -12,6 +12,7 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 </p>
 
 ---
+---
 
 ### 👨‍💻 About Me
 
@@ -21,22 +22,46 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 - 🎯 Strong advocate of clean architecture and elegant UI engineering  
 
 ---
+---
+<br>
+
 ### 🚀 Featured Projects
+---
+### 🔹 Facial Recognition Attendance System  
+**Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  
 
-🔹 **Facial Recognition Attendance System (ERP Integration)**  
-Designed and implemented a computer vision-based attendance system using **Flask**, **OpenCV**, and **InsightFace (ONNX Runtime with Buffalo model)** for real-time face recognition.  
-Integrated ERP synchronization, secure attendance logging, and structured database storage for scalable deployment.
+Engineered a computer vision-based attendance platform with real-time facial recognition.
 
-🔹 **Bank Management System (Java Desktop Application)**  
-A desktop banking application built using **Java with GUI** that simulates core banking operations including account creation, user login, balance inquiry, deposits, withdrawals, and transaction tracking, showcasing strong proficiency in object-oriented design and user interface implementation.  
-Tech Stack: Java, GUI, OOP principles.
+- Live camera face detection & embedding extraction  
+- ONNX Runtime inference (Buffalo model)  
+- Dynamic user enrollment  
+- Automated timestamped attendance logging  
+- ERP integration support  
+---
+### 🔹 Bank Management System (JavaFX)  
+**Tech:** Java • JavaFX • OOP  
 
-🔹 **Expense Register App (Android)**  
-Android application with **Firebase Authentication**, multi-language support, and secure financial data management.
+Desktop banking application simulating core financial operations.
 
-> Explore more in my repositories below 👇
+- Secure account creation & login  
+- Deposit / Withdrawal processing  
+- Transaction history tracking  
+- GUI-based interactive interface  
+- Clean object-oriented architecture  
+---
+### 🔹 Expense Register App (Android)  
+**Tech:** Java • Firebase Auth • Firestore  
+
+Mobile application for personal expense tracking.
+
+- Secure authentication system  
+- Multi-language support  
+- Expense categorization  
+- Real-time cloud sync  
+- Clean Material UI design  
 
 
+---
 ---
 
 ### 🛠 Tech Stack
@@ -61,6 +86,7 @@ Android application with **Firebase Authentication**, multi-language support, an
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm" />
 </p>
 
+---
 ---
 
 ### 📊 GitHub Activity

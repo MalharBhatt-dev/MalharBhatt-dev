@@ -24,7 +24,7 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 
 ### 🚀 Featured Projects
 ---
-### 🔹 Facial Recognition Attendance System  
+### <a href="https://github.com/MalharBhatt-dev/Facial-Recognition-Attendance-System">🔹 Facial Recognition Attendance System </a> 
 **Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  
 
 Engineered a computer vision-based attendance platform enabling real-time facial recognition and automated logging.
@@ -35,7 +35,7 @@ Engineered a computer vision-based attendance platform enabling real-time facial
 - Automated timestamped attendance logging  
 - ERP integration support  
 ---
-### 🔹 Bank Management System (JavaFX)  
+### <a href="https://github.com/MalharBhatt-dev/BankApplication">🔹 Bank Management System (JavaFX)  </a>
 **Tech:** Java • JavaFX • OOP  
 
 Desktop banking application simulating core financial operations.
@@ -95,7 +95,6 @@ Desktop banking application simulating core banking operations with secure trans
 </p>
 
 ---
-
 ### 🌐 Connect With Me
 
 <p align="center">

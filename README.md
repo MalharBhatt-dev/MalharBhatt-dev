@@ -8,7 +8,7 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Full-Stack+Python+Developer+%E2%9A%99%EF%B8%8F;Building+Scalable+Web-Applications+%F0%9F%9A%80;%E2%80%A2+Clean+Code+%E2%80%A2+Modern+UI+%E2%80%A2+Efficient+Systems++%E2%9C%A8;Turning+Ideas+Into+Production-Ready+Solutions+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=750&lines=%7C+Engineering+Scalable+Web+Applications+%7C;%7C+Clean+Code+%E2%80%A2+Structured+Systems+%7C;%7C+Performance-Driven+Development+%7C;%7C+From+Concept+to+Deployment+%7C" alt="Typing SVG" />
 </p>
 
 ---

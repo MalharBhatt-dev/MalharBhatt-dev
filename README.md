@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Malhar Bhatt 👋</h1>
 <h3 align="center">
-Full-Stack Python Developer • Clean Architecture • Scalable Systems
+Full-Stack Developer | Backend-Focused Engineering | Scalable Systems
 </h3>
 
 <p align="center">
@@ -27,7 +27,7 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 ### <a href="https://github.com/MalharBhatt-dev/Facial-Recognition-Attendance-System">🔹 Facial Recognition Attendance System </a> 
 **Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  
 
-Designed and implemented a computer vision-based attendance platform enabling real-time facial recognition and automated logging.
+Designed and implemented a computer vision-based attendance platform integrating real-time facial recognition with automated logging and backend processing.
 
 - Live camera face detection & embedding extraction  
 - ONNX Runtime inference (Buffalo model)  
@@ -38,7 +38,7 @@ Designed and implemented a computer vision-based attendance platform enabling re
 ### <a href="https://github.com/MalharBhatt-dev/BankApplication">🔹 Bank Management System (JavaFX)  </a>
 **Tech:** Java • JavaFX • OOP  
 
-Desktop banking application simulating core financial operations.
+Desktop banking application simulating core banking operations with structured transaction management.
 
 - Secure account creation & login  
 - Deposit / Withdrawal processing  
@@ -46,7 +46,7 @@ Desktop banking application simulating core financial operations.
 - GUI-based interactive interface  
 - Clean object-oriented architecture  
 
-### <a href="">🔹 Expense Register App (Android)  </a>
+###🔹 Expense Register App (Android) 
 **Tech:** Java • Firebase Auth • Firestore  
 
 Android application for personal expense tracking and financial management.
@@ -80,6 +80,14 @@ Android application for personal expense tracking and financial management.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm" />
 </p>
+
+--- 
+
+### 📌 Core Focus Areas
+
+- Backend System Design  
+- Performance Optimization  
+- Scalable Web Architecture  
 
 ---
 

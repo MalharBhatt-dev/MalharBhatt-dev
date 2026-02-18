@@ -12,7 +12,6 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 </p>
 
 ---
----
 
 ### 👨‍💻 About Me
 
@@ -22,15 +21,13 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 - 🎯 Strong advocate of clean architecture and elegant UI engineering  
 
 ---
----
-<br>
 
 ### 🚀 Featured Projects
 ---
 ### 🔹 Facial Recognition Attendance System  
 **Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  
 
-Engineered a computer vision-based attendance platform with real-time facial recognition.
+Engineered a computer vision-based attendance platform enabling real-time facial recognition and automated logging.
 
 - Live camera face detection & embedding extraction  
 - ONNX Runtime inference (Buffalo model)  
@@ -52,7 +49,7 @@ Desktop banking application simulating core financial operations.
 ### 🔹 Expense Register App (Android)  
 **Tech:** Java • Firebase Auth • Firestore  
 
-Mobile application for personal expense tracking.
+Desktop banking application simulating core banking operations with secure transaction handling.
 
 - Secure authentication system  
 - Multi-language support  
@@ -60,33 +57,30 @@ Mobile application for personal expense tracking.
 - Real-time cloud sync  
 - Clean Material UI design  
 
-
----
 ---
 
 ### 🛠 Tech Stack
 
 #### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
 #### ⚙️ Frameworks & Libraries
-<p >
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,flask,tailwind" />
 </p>
 
 #### 🗄 Databases
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
 #### 🛠 Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm" />
 </p>
 
----
 ---
 
 ### 📊 GitHub Activity

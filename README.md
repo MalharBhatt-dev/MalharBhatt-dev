@@ -21,17 +21,18 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 - 🎯 Strong advocate of clean architecture and elegant UI engineering  
 
 ---
-
 ### 🚀 Featured Projects
 
-🔹 **Expense Register App**  
-Android application with Firebase Authentication, multi-language support, and secure data management.
+🔹 **Facial Recognition Attendance System (ERP Integration)**  
+>Designed and implemented a computer vision-based attendance system using **Flask**, **OpenCV**, and **InsightFace (ONNX Runtime with Buffalo model)** for real-time face recognition.  
+Integrated ERP synchronization, secure attendance logging, and structured database storage for scalable deployment.
 
-🔹 **Account Manager App**  
-Role-based access system integrated with Firestore for secure financial tracking.
+🔹 **Bank Management System (JavaFX Desktop Application)**  
+>Developed a secure banking application using **Java** and **JavaFX** featuring account creation, deposits, withdrawals, transaction history, and basic validation logic.  
+Focused on clean OOP design principles and GUI-based user interaction.
 
-🔹 **Typing Test Application**  
-Real-time performance tracking tool with accuracy and speed analytics.
+🔹 **Expense Register App (Android)**  
+>Android application with **Firebase Authentication**, multi-language support, and secure financial data management.
 
 > Explore more in my repositories below 👇
 

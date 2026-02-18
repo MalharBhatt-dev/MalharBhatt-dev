@@ -24,17 +24,18 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 ### 🚀 Featured Projects
 
 🔹 **Facial Recognition Attendance System (ERP Integration)**  
->Designed and implemented a computer vision-based attendance system using **Flask**, **OpenCV**, and **InsightFace (ONNX Runtime with Buffalo model)** for real-time face recognition.  
+Designed and implemented a computer vision-based attendance system using **Flask**, **OpenCV**, and **InsightFace (ONNX Runtime with Buffalo model)** for real-time face recognition.  
 Integrated ERP synchronization, secure attendance logging, and structured database storage for scalable deployment.
 
-🔹 **Bank Management System (JavaFX Desktop Application)**  
->Developed a secure banking application using **Java** and **JavaFX** featuring account creation, deposits, withdrawals, transaction history, and basic validation logic.  
-Focused on clean OOP design principles and GUI-based user interaction.
+🔹 **Bank Management System (Java Desktop Application)**  
+A desktop banking application built using **Java with GUI** that simulates core banking operations including account creation, user login, balance inquiry, deposits, withdrawals, and transaction tracking, showcasing strong proficiency in object-oriented design and user interface implementation.  
+Tech Stack: Java, GUI, OOP principles.
 
 🔹 **Expense Register App (Android)**  
->Android application with **Firebase Authentication**, multi-language support, and secure financial data management.
+Android application with **Firebase Authentication**, multi-language support, and secure financial data management.
 
 > Explore more in my repositories below 👇
+
 
 ---
 

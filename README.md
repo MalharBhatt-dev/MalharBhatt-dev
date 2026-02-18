@@ -42,10 +42,10 @@
 ### 📊 GitHub Activity
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalharBhatt-dev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-hhyzk9w11-malharbhatt-devs-projects.vercel.app/api?username=MalharBhatt-dev&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MalharBhatt-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-hhyzk9w11-malharbhatt-devs-projects.vercel.app/api/top-langs/?username=MalharBhatt-dev&layout=compact&theme=radical)
 
 <!-- Contribution Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=MalharBhatt-dev&theme=radical)

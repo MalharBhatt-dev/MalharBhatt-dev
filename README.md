@@ -38,18 +38,27 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malharbhatt.devs@gmail.com)
 
 ---
-
 ### 📊 GitHub Activity
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-hhyzk9w11-malharbhatt-devs-projects.vercel.app/api?username=MalharBhatt-dev&show_icons=true&theme=radical)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-eosin-kappa-59.vercel.app/api?username=MalharBhatt-dev&show_icons=true&theme=radical" height="170"/>
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=MalharBhatt-dev&theme=radical" height="170"/>
+</p>
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats-hhyzk9w11-malharbhatt-devs-projects.vercel.app/api/top-langs/?username=MalharBhatt-dev&layout=compact&theme=radical)
+<p align="center">
+  <!-- Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalharBhatt-dev&theme=radical" />
+</p>
 
-<!-- Contribution Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=MalharBhatt-dev&theme=radical)
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-eosin-kappa-59.vercel.app/api/top-langs/?username=MalharBhatt-dev&layout=compact&theme=radical" height="170"/>
+</p>
 
-<!-- Summary Card -->
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalharBhatt-dev&theme=vue)
+
+
+
+
 

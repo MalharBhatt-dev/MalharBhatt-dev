@@ -8,33 +8,33 @@ Full-Stack Python Developer • Clean Architecture • Scalable Systems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=750&lines=%7C+Engineering+Scalable+Web+Applications+%7C;%7C+Clean+Code+%E2%80%A2+Structured+Systems+%7C;%7C+Performance-Driven+Development+%7C;%7C+From+Concept+to+Deployment+%7C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Engineering+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Structured+Systems;Performance-Driven+Development;From+Concept+to+Deployment" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 Full-stack developer specializing in Python and modern web technologies  
-- ⚡ Focused on scalable, maintainable, and high-performance applications  
-- 📚 Continuously improving through real-world projects and system design  
-- 🎯 Strong advocate of clean architecture and elegant UI engineering  
+- Full-stack developer specializing in Python and modern web technologies  
+- Focused on scalable, maintainable, and performance-driven systems  
+- Strong foundation in backend architecture and system design principles  
+- Committed to writing clean, structured, and production-grade code  
 
 ---
 
 ### 🚀 Featured Projects
----
+
 ### <a href="https://github.com/MalharBhatt-dev/Facial-Recognition-Attendance-System">🔹 Facial Recognition Attendance System </a> 
 **Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  
 
-Engineered a computer vision-based attendance platform enabling real-time facial recognition and automated logging.
+Designed and implemented a computer vision-based attendance platform enabling real-time facial recognition and automated logging.
 
 - Live camera face detection & embedding extraction  
 - ONNX Runtime inference (Buffalo model)  
 - Dynamic user enrollment  
 - Automated timestamped attendance logging  
 - ERP integration support  
----
+
 ### <a href="https://github.com/MalharBhatt-dev/BankApplication">🔹 Bank Management System (JavaFX)  </a>
 **Tech:** Java • JavaFX • OOP  
 
@@ -45,11 +45,11 @@ Desktop banking application simulating core financial operations.
 - Transaction history tracking  
 - GUI-based interactive interface  
 - Clean object-oriented architecture  
----
-### 🔹 Expense Register App (Android)  
+
+### <a href="">🔹 Expense Register App (Android)  </a>
 **Tech:** Java • Firebase Auth • Firestore  
 
-Desktop banking application simulating core banking operations with secure transaction handling.
+Android application for personal expense tracking and financial management.
 
 - Secure authentication system  
 - Multi-language support  

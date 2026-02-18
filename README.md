@@ -16,9 +16,9 @@ Full-Stack Developer | Backend-Focused Engineering | Scalable Systems
 ### 👨‍💻 About Me
 
 - Full-stack developer specializing in Python and modern web technologies  
-- Focused on scalable, maintainable, and performance-driven systems  
+- Focused on building scalable, maintainable, and performance-driven systems  
 - Strong foundation in backend architecture and system design principles  
-- Committed to writing clean, structured, and production-grade code  
+- Committed to delivering clean, structured, and production-grade solutions  
 
 ---
 
@@ -27,7 +27,7 @@ Full-Stack Developer | Backend-Focused Engineering | Scalable Systems
 ### <a href="https://github.com/MalharBhatt-dev/Facial-Recognition-Attendance-System">🔹 Facial Recognition Attendance System </a> 
 **Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  
 
-Designed and implemented a computer vision-based attendance platform integrating real-time facial recognition with automated logging and backend processing.
+Designed and implemented a computer vision-based attendance platform integrating real-time facial recognition with automated logging and scalable backend processing.
 
 - Live camera face detection & embedding extraction  
 - ONNX Runtime inference (Buffalo model)  
@@ -46,7 +46,7 @@ Desktop banking application simulating core banking operations with structured t
 - GUI-based interactive interface  
 - Clean object-oriented architecture  
 
-###🔹 Expense Register App (Android) 
+### 🔹 Expense Register App (Android) 
 **Tech:** Java • Firebase Auth • Firestore  
 
 Android application for personal expense tracking and financial management.

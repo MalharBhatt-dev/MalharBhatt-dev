@@ -39,15 +39,16 @@
 
 ---
 
-### ​📊 GitHub Activity
-<!-- Stats -->
-![](https://github-readme-stats.vercel.app/api?username=MalharBhatt-dev&show_icons=true&theme=radical)
+### 📊 GitHub Activity
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalharBhatt-dev&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalharBhatt-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MalharBhatt-dev&layout=compact&theme=radical)
 
 <!-- Contribution Streak -->
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=MalharBhatt-dev&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=MalharBhatt-dev&theme=radical)
 
 <!-- Summary Card -->
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalharBhatt-dev&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalharBhatt-dev&theme=vue)

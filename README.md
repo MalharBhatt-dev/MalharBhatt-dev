@@ -73,7 +73,7 @@ Android application for personal expense tracking and financial management.
 
 #### 🗄 Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
 </p>
 
 #### 🛠 Tools

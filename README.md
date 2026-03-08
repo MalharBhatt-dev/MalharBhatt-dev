@@ -35,16 +35,21 @@ Designed and implemented a computer vision-based attendance platform integrating
 - Automated timestamped attendance logging  
 - ERP integration support  
 
-### <a href="https://github.com/MalharBhatt-dev/BankApplication">🔹 Bank Management System (JavaFX)  </a>
-**Tech:** Java • JavaFX • OOP  
+### <a href="https://github.com/MalharBhatt-dev/BankingCore">🔹 Secure Core Banking Platform</a>
+**Tech:** Python • Flask • REST APIs • HTML • JavaScript • Tailwind CSS
 
-Desktop banking application simulating core banking operations with structured transaction management.
+Developed a full-stack banking platform simulating real-world core banking operations with secure authentication, transaction processing, and administrative control features.
 
-- Secure account creation & login  
-- Deposit / Withdrawal processing  
-- Transaction history tracking  
-- GUI-based interactive interface  
-- Clean object-oriented architecture  
+- JWT-based authentication with access & refresh token architecture
+- Refresh token rotation and token blacklisting for secure session management
+- Savings and current account management system
+- Transaction processing engine with persistent transaction logging
+- Administrative dashboard for account monitoring and lock/unlock controls
+- Security event history tracking for auditing sensitive operations
+- Centralized logging system for system events and financial activities
+- Custom error handling and structured API responses
+- Rate limiting and secure HTTP headers for API protection
+- Responsive frontend interface built using Tailwind CSS and JavaScript
 
 ### 🔹 Expense Register App (Android) 
 **Tech:** Java • Firebase Auth • Firestore  

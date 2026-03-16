@@ -24,17 +24,6 @@ Full-Stack Developer | Backend-Focused Engineering | Scalable Systems
 
 ### 🚀 Featured Projects
 
-### 🔹<a href="https://github.com/MalharBhatt-dev/Facial-Recognition-Attendance-System"> Facial Recognition Attendance System </a> 
-**Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  
-
-Designed and implemented a computer vision-based attendance platform integrating real-time facial recognition with automated logging and scalable backend processing.
-
-- Live camera face detection & embedding extraction  
-- ONNX Runtime inference (Buffalo model)  
-- Dynamic user enrollment  
-- Automated timestamped attendance logging  
-- ERP integration support  
-
 ### 🔹<a href="https://github.com/MalharBhatt-dev/BankingCore"> Secure Core Banking Platform</a>
 **Tech:** Python • Flask • REST APIs • HTML • JavaScript • Tailwind CSS
 
@@ -50,6 +39,18 @@ Developed a full-stack banking platform simulating real-world core banking opera
 - Custom error handling and structured API responses
 - Rate limiting and secure HTTP headers for API protection
 - Responsive frontend interface built using Tailwind CSS and JavaScript
+
+### 🔹<a href="https://github.com/MalharBhatt-dev/Facial-Recognition-Attendance-System"> Facial Recognition Attendance System </a> 
+**Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  
+
+Designed and implemented a computer vision-based attendance platform integrating real-time facial recognition with automated logging and scalable backend processing.
+
+- Live camera face detection & embedding extraction  
+- ONNX Runtime inference (Buffalo model)  
+- Dynamic user enrollment  
+- Automated timestamped attendance logging  
+- ERP integration support  
+
 
 ### 🔹 Expense Register App (Android) 
 **Tech:** Java • Firebase Auth • Firestore  

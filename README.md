@@ -105,7 +105,7 @@ Android application for personal expense tracking and financial management.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MalharBhatt-dev&theme=radical&v=1" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=MalharBhatt-dev&theme=radical&v=2" height="165"/>
 </p>
 
 ---

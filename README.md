@@ -69,12 +69,12 @@ Android application for personal expense tracking and financial management.
 
 #### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind" />
 </p>
 
 #### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flask,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,flask" />
 </p>
 
 #### 🗄 Databases
@@ -84,7 +84,7 @@ Android application for personal expense tracking and financial management.
 
 #### 🛠 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,pycharm" />
 </p>
 
 --- 

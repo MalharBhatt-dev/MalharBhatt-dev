@@ -25,7 +25,9 @@ Full-Stack Developer | Backend-Focused Engineering | Scalable Systems
 ### 🚀 Featured Projects
 
 ### 🔹<a href="https://github.com/MalharBhatt-dev/BankingCore"> Secure Core Banking Platform</a>
-**🌐 <a href="https://bankingcore.onrender.com">Live Demo</a>** <br>
+
+**🌐 <a href="https://bankingcore.onrender.com">Live Demo</a> hhtps://bankingcore.onrender.com (may take ~30s to wake up** <br> 🧪 Demo Accounts Available (User / Employee / Admin)
+
 **Tech:** Python • Flask • REST APIs • PostgreSQL • HTML • JavaScript • Tailwind CSS
 
 Built a production-grade full-stack banking system simulating real-world core banking operations with secure authentication, transaction processing, and role-based control.

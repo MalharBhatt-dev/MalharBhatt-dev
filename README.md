@@ -25,20 +25,21 @@ Full-Stack Developer | Backend-Focused Engineering | Scalable Systems
 ### 🚀 Featured Projects
 
 ### 🔹<a href="https://github.com/MalharBhatt-dev/BankingCore"> Secure Core Banking Platform</a>
-**Tech:** Python • Flask • REST APIs • HTML • JavaScript • Tailwind CSS
+**Tech:** Python • Flask • REST APIs • PostgreSQL • HTML • JavaScript • Tailwind CSS
 
-Developed a full-stack banking platform simulating real-world core banking operations with secure authentication, transaction processing, and administrative control features.
+Built a production-grade full-stack banking system simulating real-world core banking operations with secure authentication, transaction processing, and role-based control.
 
-- JWT-based authentication with access & refresh token architecture
-- Refresh token rotation and token blacklisting for secure session management
-- Savings and current account management system
-- Transaction processing engine with persistent transaction logging
-- Administrative dashboard for account monitoring and lock/unlock controls
-- Security event history tracking for auditing sensitive operations
+- JWT authentication with access/refresh tokens + rotation
+- Role-based system (User, Employee, Admin) with secure access control
+- Account management (savings/current) with deposit, withdraw, and transfer features
+- Transaction engine with persistent history and real-time balance updates
+- Admin dashboard for monitoring, account locking/unlocking, and audit logs
+- Employee workflow for handling user service requests (approve/reject)
+- Security features: rate limiting, account lock mechanism, and event tracking
 - Centralized logging system for system events and financial activities
 - Custom error handling and structured API responses
 - Rate limiting and secure HTTP headers for API protection
-- Responsive frontend interface built using Tailwind CSS and JavaScript
+- Responsive fintech UI with Tailwind CSS and modern UX
 
 ### 🔹<a href="https://github.com/MalharBhatt-dev/Facial-Recognition-Attendance-System"> Facial Recognition Attendance System </a> 
 **Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  

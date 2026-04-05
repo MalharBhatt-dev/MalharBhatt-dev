@@ -26,7 +26,7 @@ Full-Stack Developer | Backend-Focused Engineering | Scalable Systems
 
 ### 🔹<a href="https://github.com/MalharBhatt-dev/BankingCore"> Secure Core Banking Platform</a>
 
-**🌐 <a href="bankingcore-production.up.railway.app">Live Demo: https://bankingcore.onrender.com</a> <br> 🧪 Demo Accounts Available (User / Employee / Admin)
+**🌐 <a href="bankingcore-production.up.railway.app">Live Demo: https://bankingcore-production.up.railway.app</a> <br> 🧪 Demo Accounts Available (User / Employee / Admin)
 
 **Tech:** Python • Flask • REST APIs • PostgreSQL • HTML • JavaScript • Tailwind CSS
 
